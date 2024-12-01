@@ -1,8 +1,6 @@
-/** @format */
 
 import React from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { PiDownloadSimpleFill } from "react-icons/pi";
 
 const Navbar = () => {
