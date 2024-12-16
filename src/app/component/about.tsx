@@ -21,7 +21,7 @@ const About = () => {
         About Me
       </h1>
       <p className="mb-8 leading-relaxed">
-        I am From Kandhkot sindh Pakistan. I have completed my Bachlor's from Shah Abdul Latif University of Khairpur.
+        I am From Kandhkot sindh Pakistan. I have completed my Bachlors from Shah Abdul Latif University of Khairpur.
         I am Also Frontend Developer.
         In my spare time I enjoy reading novels and watching TV Programms
       </p><br />
